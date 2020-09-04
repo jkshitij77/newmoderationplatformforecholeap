@@ -1,3 +1,8 @@
+I have attached all the files necessary and the package.lock is there in the og package.json but commented out
+I have not attached any firebase functionality right now
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
